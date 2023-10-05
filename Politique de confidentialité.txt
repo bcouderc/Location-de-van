@@ -1,0 +1,65 @@
+
+Propriétaire du site
+
+___________________, ___________________________, ___________________
+
+
+
+Qu’entendons-nous par données personnelles ?
+
+Nous parlons ici de données qui permettent de vous identifier ou qui pourrait être utilisées à cette fin. Il s’agit ici de votre prénom, nom, adresse e-mail, vos coordonnées, et de la façon dont vous utilisez notre site internet.
+Cookies
+
+Nous pouvons stocker des informations sur votre ordinateur sous forme de cookies. Les cookies permettent d’enregistrer des informations relatives à votre navigation préalablement à la visite de notre Site Internet ou sur notre Site Internet (les pages que vous avez consultées, la date et l’heure de consultation, etc.). Nous pourrons lire ces informations lors de vos prochaines visites.
+Par ailleurs, www.______________________.com implante un cookie dans votre ordinateur, lequel enregistre des informations relatives à votre navigation sur notre Site Internet et stocke des informations que vous avez saisies durant votre visite.
+
+
+
+Les cookies que nous utilisons sont les suivants :
+
+- Google Adwords : ce cookie nous permet d’enregistrer vos paramètres lorsque vous vous connectez à notre site internet via nos publicités sur Google, et d’effectuer le suivi de la manière dont vous accédez à certaines pages.
+- Google Analytics : ce cookie nous permet d’enregistrer des informations sur les pages que vous visitez. Cela nous permet d’améliorer votre expérience utilisateur au quotidien.
+- Google Tag manager : ce cookie nous permet d’enregistrer des informations lors de votre navigation sur notre site internet et d’optimiser nos contenus pour vous offrir une meilleure lecture.
+- Facebook Pixel : ce cookie nous permet d’enregistrer les conversions de nos publicités facebook et de créer des audiences de reciblage pour vous aider à trouver le produit dont vous avez besoin.Google Adwords
+Vos informations personnelles
+
+Chez ______________________ nous souhaitons que nos utilisateurs et clients aient confiance en nous. C’est pourquoi nous ne vendons pas vos informations personnelles à d’autres services. Vos informations sont uniquement utilisées par _________________ afin de vous proposer des services qui vous correspondent et qui répondent à ce que vous recherchez.
+
+/* ------------------------------------------------------------------------*/
+Les informations liées à la réservation de van sont stockées chez un service tiers, CheckFront, vous pouvez consulter leur politique de confidentialité en cliquant ici (https://www.checkfront.com/privacy). Nous nous sommes assurés qu’ils n’exploitent pas et ne revendent pas vos données personnelles. Les données cartes bancaires sont enregistrées sur une plateforme de paiement sécurisée.
+/* ------------------------------------------------------------------------*/
+
+
+
+Obtention et utilisation des informations personnelles
+
+Lors de votre navigation, nous collectons seulement les données liées à votre parcours sur notre site. Ceci nous permet de constamment faire évoluer notre site et de vous proposer des services qui répondent à vos besoins. Ces données sont recueillies par Google Analytics. Ce service tiers enregistre votre adresse IP et votre parcours sur notre site. Ces données ne sont pas vendues à d’autres services. Si vous souhaitez empêcher la collecte et l’utilisation de ces informations, vous pouvez installer un plugin disponible à cette adresse : https://tools.google.com/dlpage/gaoptout?hl=fr.
+Si vous réservez un van sur notre site, vous devrez alors renseigner les informations nécessaires (nom, prénom, email, téléphone, adresse postale, numéro de permis de conduire).
+Si vous souhaitez recevoir notre super newsletter, vous devrez renseigner ces informations : nom, prénom, adresse mail.
+Divulgation à des tiers
+
+Nous ne vendons, n’échangeons et ne transférons pas vos informations personnelles identifiables à des tiers. Cela ne comprend pas les tierces parties de confiance qui nous aident à exploiter notre site internet ou à gérer notre activité, tant que ces parties conviennent de garder ces informations confidentielles.
+Protection des informations
+
+Nous mettons en œuvre une variété de mesures de sécurité pour préserver vos informations personnelles. Les serveurs utilisés (1&1) pour stocker vos informations sont conservés dans un environnement sécurisé. Nous protégeons également vos informations hors ligne.
+
+
+
+Vos droits à la protection des données
+
+Conformément à la loi, vous avez le droit dans certaines circonstances de :
+
+• Demander vos informations afin de savoir si nous possédons des informations à caractère personnelles.
+• Demander la correction et la mise à jour de vos informations.
+• Demander la suppression de vos données personnelles.
+• Vous opposer au traitement de vos informations. Sachez que si vous ne souhaitez pas transmettre vos informations, nous ne pourrons pas procéder à la réservation de van vous concernant.
+• Retirer votre consentement, vous pouvez arrêter de recevoir des mails de notre part, pour cela vous pouvez vous désinscrire en cliquant sur le lien « se désinscrire » en bas de la newsletter, ou nous envoyer la demande par mail à contact@blacksheep-van.com
+Si vous avez une demande concernant vos données personnelles, merci de nous contacter par mail à cette adresse : ___________@_____________.com
+Votre accord
+
+
+
+En utilisant notre super site internet, vous acceptez que l’on puisse obtenir et utiliser les informations que vous nous donnez.
+Modifications de la politique de confidentialité
+
+Notre politique de confidentialité peut être amenée à changer au cours de l’année et suivant les nouvelles lois en vigueur concernant le traitement des données personnelles.
